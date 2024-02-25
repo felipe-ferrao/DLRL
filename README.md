@@ -1,0 +1,1 @@
+Neste repositório estão armazenados os arqiuvos atualizados relacionados com o Projeto de Doutorado "DESENVOLVIMENTO LOCAL EM REGIÕES LITORÂNEAS – PROPOSTA DE UM PADRÃO PARA A DEFINIÇÃO DE INDICADORES"
